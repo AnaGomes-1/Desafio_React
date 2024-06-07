@@ -11,7 +11,7 @@ button{
     border-radius: 30px;
     color: white;
     background-color: salmon;
-    margin-top: 2vh;
+    margin: 2vh;
     margin-inline-start: 2vh;
 
     
@@ -24,7 +24,8 @@ h1{
 }
 section{
     background-color: lightblue;
-    height: 15vh;
+    height: 25vh;
     width: 23vw;
+    
     
 }
